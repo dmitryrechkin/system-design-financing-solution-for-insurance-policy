@@ -138,7 +138,7 @@ Build a financing solution that allows paying monthly for an insurance policy ov
 
 ## Proposed System Architecture
 
-[![System Design Diagram](images/system_design_diagram.png)
+![System Design Diagram](images/system_design_diagram.png)
 
 ## Design Overview
 
