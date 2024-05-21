@@ -307,6 +307,7 @@ Endpoints output the selected **Payment Terms** fields along with the **payment_
 **Create Payment Terms**
 
 **HTTP Path:** /payment_terms
+
 **HTTP Method:** POST
 
 |**Property Name**|**Type**|**Required**|**Description**|
@@ -322,6 +323,7 @@ Endpoints output the selected **Payment Terms** fields along with the **payment_
 **Adjust Payment Terms**
 
 **HTTP Path:** /payment_terms/{payment_terms_id}
+
 **HTTP Method:** PATCH
 
 |**Property Name**|**Type**|**Required**|**Description**|
@@ -331,6 +333,7 @@ Endpoints output the selected **Payment Terms** fields along with the **payment_
 **Cancel Payment Terms**
 
 **HTTP Path:** /payment_terms/{payment_terms}
+
 **HTTP Method:** DELETE
 
 ## Possible Implementation Risks
